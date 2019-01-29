@@ -1,0 +1,7 @@
+# Vendor
+
+node_modules
+
+# ide
+.idea
+.vscode
